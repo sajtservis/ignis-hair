@@ -1,2 +1,1 @@
-# ignis-hair
-Demo sajt za Ignis hair (Ćuprija), izradio Sajt Servis
+Demo sajt za Ignis hair (Ćuprija). Izradio Sajt Servis. Stranica nije za pretragu (noindex).
